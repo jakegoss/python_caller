@@ -1,8 +1,8 @@
 <Response>
 <Say voice="alice">
-You got got!
+You got got! ...
 </Say>
 <Dial record="true">
-<Conference>Full Stack Python</Conference>
+<Conference>Mother Fucker</Conference>
 </Dial>
 </Response>

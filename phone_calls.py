@@ -6,7 +6,7 @@ from twilio.rest import Client
 TWILIO_PHONE_NUMBER = "+16172061930"
 
 # list of one or more phone numbers to dial, in "+19732644210" format
-DIAL_NUMBERS = ["+18024983534",]
+DIAL_NUMBERS = ["+18005050505",]
 
 # URL location of TwiML instructions for how to handle the phone call
 TWIML_INSTRUCTIONS_URL = \
@@ -14,7 +14,7 @@ TWIML_INSTRUCTIONS_URL = \
 
 # replace the placeholder values with your Account SID and Auth Token
 # found on the Twilio Console: https://www.twilio.com/console
-client = Client("AC61b5962310dbcd5cd22542043d9e657e", "75613bf2cf155c7692263198c95e2126")
+client = Client("xxxxxxxxxxxxxxxxxxxxxxxxxx", "yyyyyyyyyyyyyyyyyyyyyyyy")
 
 
 def dial_numbers(numbers_list):

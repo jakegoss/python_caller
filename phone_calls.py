@@ -10,7 +10,7 @@ DIAL_NUMBERS = ["+18024983534",]
 
 # URL location of TwiML instructions for how to handle the phone call
 TWIML_INSTRUCTIONS_URL = \
-  "http://static.fullstackpython.com/phone-calls-python.xml"
+  "https://raw.githubusercontent.com/jakegoss/python_caller/main/voice.xml"
 
 # replace the placeholder values with your Account SID and Auth Token
 # found on the Twilio Console: https://www.twilio.com/console
